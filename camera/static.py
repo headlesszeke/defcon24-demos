@@ -22,3 +22,5 @@ def response(flow):
             flow.response.headers["content-type"] = "image/png"
         except:  # Unknown image types etc.
             pass
+
+# © 2016, Trend Micro Incorporated

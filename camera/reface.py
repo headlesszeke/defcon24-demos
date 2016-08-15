@@ -50,3 +50,4 @@ def response(flow):
         except:  # Unknown image types etc.
             pass
 
+# © 2016, Trend Micro Incorporated

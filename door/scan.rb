@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# coding: utf-8
 require 'socket'
 require 'timeout'
 
@@ -44,3 +45,5 @@ socket.close
 
 puts "-" * 21
 puts "done"
+
+# © 2016, Trend Micro Incorporated

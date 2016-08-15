@@ -35,3 +35,5 @@ def response(flow):
                 state["images"].append(StringIO(flow.response.content))
             except:
                 pass
+
+# © 2016, Trend Micro Incorporated
